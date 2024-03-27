@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.svg" height=200>
+    <img src="https://raw.githubusercontent.com/geralang/.github/main/profile/logo.svg" height=200>
 </p>
 
 # The Gera Programming Language
