@@ -6,6 +6,8 @@
 
 Welcome to the Github organization for Gera, a procedural, high-level, statically typed and garbage collected programming language without type annotations.
 
+Documentation for Gera is available at https://geralang.netlify.app.
+
 ### Repositories
 - `gerac` - The initial implementation of Gera
 - `std` - The Gera standard library
