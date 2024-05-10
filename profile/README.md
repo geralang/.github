@@ -9,10 +9,9 @@ Welcome to the Github organization for Gera, a procedural, high-level, staticall
 Documentation for Gera is available at https://geralang.netlify.app.
 
 ### Repositories
-- `gerac` - The initial implementation of Gera
-- `std` - The Gera standard library
-- `gerap` - The package manager for Gera
-- `ccoredeps` - A collection of headers and functions required for Gera to work when compiling to C
-- `vscode` - A Visual Studio Code extension for Gera
-- `docs` - The source code for the documentation website
-- `gerarwc` - A new implementation of Gera, planned as a drop-in replacement for `gerac`
+- `gerap` - package manager
+- `gerac` - compiler
+- `std` - standard library
+- `vscode` - Visual Studio Code extension
+- `docs` - documentation website
+- `ccoredeps` - headers and functions required when compiling to C
